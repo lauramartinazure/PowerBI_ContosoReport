@@ -1,0 +1,266 @@
+SalesTerritoryKey,GeographyKey,SalesTerritoryName,SalesTerritoryRegion,SalesTerritoryCountry,SalesTerritoryGroup,SalesTerritoryLevel,SalesTerritoryManager,Status,EmployeeKey
+1,693,Seattle,Washington,United States,North America,4,35,Current,35
+2,856,Kennewick,Washington,United States,North America,4,36,Current,36
+3,424,Bellevue,Washington,United States,North America,4,37,Current,37
+4,677,Redmond,Washington,United States,North America,4,38,Current,38
+5,575,Yakima,Washington,United States,North America,4,39,Current,39
+6,838,Granger,Washington,United States,North America,4,40,Current,40
+7,935,Sunnyside,Washington,United States,North America,4,41,Current,41
+8,941,Toppenish,Washington,United States,North America,4,42,Current,42
+9,947,Wapato,Washington,United States,North America,4,43,Current,43
+10,813,Cle Elum,Washington,United States,North America,4,44,Current,44
+11,893,North Bend,Washington,United States,North America,4,45,Current,45
+12,930,Snoqualmie,Washington,United States,North America,4,46,Current,46
+13,825,Fall City,Washington,United States,North America,4,47,Current,47
+14,678,Renton,Washington,United States,North America,4,48,Current,48
+15,627,Everett,Washington,United States,North America,4,49,Current,49
+16,944,Veradale,Washington,United States,North America,4,50,Current,50
+17,812,Cheney,Washington,United States,North America,4,51,Current,51
+18,824,Englewood,Colorado,United States,North America,4,52,Current,52
+19,950,Wheat Ridge,Colorado,United States,North America,4,66,Current,66
+20,571,Westminster,Colorado,United States,North America,4,54,Current,54
+21,836,Grand Junction,Colorado,United States,North America,4,55,Current,55
+22,887,New Castle,Colorado,United States,North America,4,56,Current,56
+23,839,Greeley,Colorado,United States,North America,4,57,Current,57
+24,867,Loveland,Colorado,United States,North America,4,58,Current,58
+25,859,Lafayette,Colorado,United States,North America,4,59,Current,59
+26,809,Castle Rock,Colorado,United States,North America,4,60,Current,60
+27,927,Sedalia,Colorado,United States,North America,4,61,Current,61
+28,829,Fort Collins,Colorado,United States,North America,4,62,Current,62
+29,877,Milliken,Colorado,United States,North America,4,63,Current,63
+30,799,Berthoud,Colorado,United States,North America,4,64,Current,64
+31,818,Denver,Colorado,United States,North America,4,65,Current,65
+32,803,Boulder,Colorado,United States,North America,4,66,Current,66
+33,940,Thornton,Colorado,United States,North America,4,67,Current,67
+34,865,Littleton,Colorado,United States,North America,4,68,Current,68
+35,790,Aurora,Colorado,United States,North America,4,69,Current,69
+36,904,Parker,Colorado,United States,North America,4,70,Current,70
+37,840,Green Bay,Wisconsin,United States,North America,4,71,Current,71
+38,786,Appleton,Wisconsin,United States,North America,4,72,Current,72
+39,874,Menasha,Wisconsin,United States,North America,4,73,Current,73
+40,901,Oshkosh,Wisconsin,United States,North America,4,74,Current,74
+41,878,Milwaukee,Wisconsin,United States,North America,4,75,Current,75
+42,949,Waukesha,Wisconsin,United States,North America,4,76,Current,76
+43,835,Germantown,Maryland,United States,North America,4,77,Current,77
+45,913,Port Washington,Wisconsin,United States,North America,4,79,Current,79
+46,928,Sheboygan,Wisconsin,United States,North America,4,80,Current,80
+47,871,Manitowoc,Wisconsin,United States,North America,4,81,Current,81
+48,870,Madison,Wisconsin,United States,North America,4,82,Current,82
+49,898,Oregon,Wisconsin,United States,North America,4,83,Current,83
+50,934,Stoughton,Wisconsin,United States,North America,4,84,Current,84
+51,822,Edgerton,Wisconsin,United States,North America,4,85,Current,85
+52,828,Fort Atkinson,Wisconsin,United States,North America,4,86,Current,86
+53,918,Racine,Wisconsin,United States,North America,4,87,Current,87
+54,849,Houston,Texas,United States,North America,4,88,Current,88
+55,876,Midland,Texas,United States,North America,4,89,Current,89
+56,924,Russellville,Texas,United States,North America,4,90,Current,90
+57,879,Minden,Texas,United States,North America,4,91,Current,91
+58,929,Shreveport,Texas,United States,North America,4,92,Current,92
+59,872,Marshall,Texas,United States,North America,4,93,Current,93
+60,866,Longview,Texas,United States,North America,4,94,Current,94
+61,798,Beaumont,Texas,United States,North America,4,95,Current,95
+62,897,Orange,Texas,United States,North America,4,96,Current,96
+63,579,Baytown,Texas,United States,North America,4,97,Current,97
+64,858,La Porte,Texas,United States,North America,4,98,Current,98
+65,793,Bacliff,Texas,United States,North America,4,99,Current,99
+66,939,Texas City,Texas,United States,North America,4,100,Current,100
+67,906,Pasadena,Texas,United States,North America,4,101,Current,101
+68,851,Humble,Texas,United States,North America,4,102,Current,102
+69,933,Spring,Texas,United States,North America,4,103,Current,103
+70,791,Austin,Texas,United States,North America,4,104,Current,104
+71,925,San Antonio,Texas,United States,North America,4,105,Current,105
+72,453,Cedar Park,Texas,United States,North America,4,106,Current,106
+73,923,Round Rock,Texas,United States,North America,4,107,Current,107
+74,815,Dallas,Texas,United States,North America,4,108,Current,108
+75,834,Georgetown,Texas,United States,North America,4,109,Current,109
+76,845,Hillsboro,Texas,United States,North America,4,110,Current,110
+77,787,Arlington,Texas,United States,North America,4,111,Current,111
+78,837,Grand Prairie,Texas,United States,North America,4,112,Current,112
+79,819,Desoto,Texas,United States,North America,4,113,Current,113
+80,919,Richardson,Texas,United States,North America,4,114,Current,114
+81,863,Lewisville,Texas,United States,North America,4,115,Current,115
+82,817,Denton,Texas,United States,North America,4,116,Current,116
+83,831,Fort Worth,Texas,United States,North America,4,117,Current,117
+84,910,Plano,Texas,United States,North America,4,118,Current,118
+85,875,Miami,Florida,United States,North America,4,119,Current,119
+86,853,Jacksonville,Florida,United States,North America,4,120,Current,120
+87,937,Tallahassee,Florida,United States,North America,4,121,Current,121
+88,884,Naples,Florida,United States,North America,4,122,Current,122
+89,926,Sebring,Florida,United States,North America,4,123,Current,123
+90,860,Lakeland,Florida,United States,North America,4,124,Current,124
+91,830,Fort Lauderdale,Florida,United States,North America,4,125,Current,125
+92,899,Orlando,Florida,United States,North America,4,126,Current,126
+93,938,Tampa,Florida,United States,North America,4,127,Current,127
+94,857,Key West,Florida,United States,North America,4,128,Current,128
+95,807,Cape Canaveral,Florida,United States,North America,4,129,Current,129
+96,782,Albany,New York,United States,North America,4,130,Current,130
+97,890,New York,New York,United States,North America,4,131,Current,131
+98,922,Rochester,New York,United States,North America,4,132,Current,132
+99,936,Syracuse,New York,United States,North America,4,133,Current,133
+100,805,Buffalo,New York,United States,North America,4,134,Current,134
+101,551,Spokane,Washington,United States,North America,4,135,Current,135
+102,827,Fond du Lac,Wisconsin,United States,North America,4,136,Current,136
+103,806,Burlington,Wisconsin,United States,North America,4,137,Current,137
+104,821,East Troy,Wisconsin,United States,North America,4,138,Current,138
+105,911,Plattsburgh,New York,United States,North America,4,139,Current,139
+106,804,Brooklyn,New York,United States,North America,4,140,Current,140
+107,902,Oswego,New York,United States,North America,4,141,Current,141
+108,852,Ithaca,New York,United States,North America,4,142,Current,142
+110,916,Queens,New York,United States,North America,4,143,Current,143
+111,823,Elmira,New York,United States,North America,4,144,Current,144
+112,912,Poestenkill,New York,United States,North America,4,145,Current,145
+113,943,Trenton,New Jersey,United States,North America,4,146,Current,146
+114,891,Newark,New Jersey,United States,North America,4,147,Current,147
+115,854,Jersey City,New Jersey,United States,North America,4,148,Current,148
+116,908,Paterson,New Jersey,United States,North America,4,149,Current,149
+117,814,Clifton,New Jersey,United States,North America,4,150,Current,150
+118,820,East Orange ,New Jersey,United States,North America,4,151,Current,151
+119,907,Passaic ,New Jersey,United States,North America,4,152,Current,152
+120,797,Bayonne ,New Jersey,United States,North America,4,153,Current,153
+121,945,Vineland,New Jersey,United States,North America,4,154,Current,154
+122,886,New Brunswick ,New Jersey,United States,North America,4,155,Current,155
+123,842,Hackensack ,New Jersey,United States,North America,4,156,Current,156
+124,788,Atlantic City ,New Jersey,United States,North America,4,157,Current,157
+125,880,Montclair ,New Jersey,United States,North America,4,158,Current,158
+126,847,Hoboken ,New Jersey,United States,North America,4,159,Current,159
+127,882,Morristown ,New Jersey,United States,North America,4,160,Current,160
+128,808,Cape May,New Jersey,United States,North America,4,161,Current,161
+129,802,Boston,Massachusetts,United States,North America,4,162,Current,162
+130,952,Worcester,Massachusetts,United States,North America,4,163,Current,163
+132,885,New Bedford,Massachusetts,United States,North America,4,164,Current,164
+133,789,Attleboro,Massachusetts,United States,North America,4,165,Current,165
+134,868,Lowell,Massachusetts,United States,North America,4,166,Current,166
+135,861,Leominster,Massachusetts,United States,North America,4,167,Current,167
+136,846,Hingham,Massachusetts,United States,North America,4,168,Current,168
+137,917,Quincy,Massachusetts,United States,North America,4,169,Current,169
+138,832,Framingham,Massachusetts,United States,North America,4,170,Current,170
+139,449,Cambridge,Massachusetts,United States,North America,4,171,Current,171
+140,931,Somerville,Massachusetts,United States,North America,4,172,Current,172
+141,844,Haverhill,Massachusetts,United States,North America,4,173,Current,173
+142,869,Lynn,Massachusetts,United States,North America,4,174,Current,174
+143,895,Northampton,Massachusetts,United States,North America,4,175,Current,175
+144,848,Holyoke,Massachusetts,United States,North America,4,176,Current,176
+145,909,Pittsfield,Massachusetts,United States,North America,4,177,Current,177
+146,826,Falmouth,Massachusetts,United States,North America,4,178,Current,178
+147,914,Provincetown,Massachusetts,United States,North America,4,179,Current,179
+148,883,Nantucket,Massachusetts,United States,North America,4,180,Current,180
+149,795,Bangor,Maine,United States,North America,4,181,Current,181
+150,796,Bar Harbor,Maine,United States,North America,4,182,Current,182
+151,855,Kennebunkport,Maine,United States,North America,4,183,Current,183
+152,862,Lewiston,Maine,United States,North America,4,184,Current,184
+153,900,Orono,Maine,United States,North America,4,185,Current,185
+154,932,South Portland,Maine,United States,North America,4,186,Current,186
+155,843,Hartford,Connecticut,United States,North America,4,187,Current,187
+156,801,Bridgeport,Connecticut,United States,North America,4,188,Current,188
+157,948,Waterbury,Connecticut,United States,North America,4,189,Current,189
+158,896,Old Saybrook,Connecticut,United States,North America,4,190,Current,190
+159,816,Darien,Connecticut,United States,North America,4,191,Current,191
+160,888,New Haven ,Connecticut,United States,North America,4,192,Current,192
+161,864,Litchfield County,Connecticut,United States,North America,4,193,Current,193
+162,889,New London,Connecticut,United States,North America,4,194,Current,194
+163,892,Norfolk,Virginia,United States,North America,4,195,Current,195
+164,946,Virginia Beach,Virginia,United States,North America,4,196,Current,196
+165,951,Winchester,Virginia,United States,North America,4,197,Current,197
+167,783,Alexandria,Virginia,United States,North America,4,198,Current,198
+168,921,Roanoke,Virginia,United States,North America,4,199,Current,199
+169,811,Charlottesville ,Virginia,United States,North America,4,200,Current,200
+170,833,Fredericksburg,Virginia,United States,North America,4,201,Current,201
+171,873,Martinsville ,Virginia,United States,North America,4,202,Current,202
+172,841,Greenville,South Carolina,United States,North America,4,203,Current,203
+173,810,Charleston ,South Carolina,United States,North America,4,204,Current,204
+174,785,Annapolis,Maryland,United States,North America,4,205,Current,205
+175,794,Baltimore,Maryland,United States,North America,4,206,Current,206
+176,850,Howard,Maryland,United States,North America,4,207,Current,207
+177,920,Ridgely,Maryland,United States,North America,4,208,Current,208
+178,915,Queen Anne's County,Maryland,United States,North America,4,209,Current,209
+179,905,Parkville,Maryland,United States,North America,4,210,Current,210
+180,792,Back River,Maryland,United States,North America,4,211,Current,211
+182,800,Bethesda,Maryland,United States,North America,4,212,Current,212
+183,894,North Harford,Maryland,United States,North America,4,213,Current,213
+184,506,London,England ,UK,Europe,4,219,Current,219
+185,748,Edinburgh,Scotland,UK,Europe,4,220,Current,220
+186,751,Glasgow,Scotland,UK,Europe,4,221,Current,221
+187,576,York,England ,UK,Europe,4,222,Current,222
+188,742,Carlisle,England ,UK,Europe,4,223,Current,223
+189,761,Manchester,England ,UK,Europe,4,224,Current,224
+190,755,Lancashire,England ,UK,Europe,4,225,Current,225
+191,781,West Yorkshire,England ,UK,Europe,4,226,Current,226
+192,738,Baildon,England ,UK,Europe,4,227,Current,227
+193,743,Cheshire,England ,UK,Europe,4,228,Current,228
+194,774,Stockport,England ,UK,Europe,4,229,Current,229
+195,651,Liverpool,England ,UK,Europe,4,230,Current,230
+196,753,Knotty Ash,England ,UK,Europe,4,231,Current,231
+197,501,Leeds,England ,UK,Europe,4,232,Current,232
+198,529,Paris,Ile-del-France,France,Europe,4,233,Current,233
+199,762,Marseille,Provence-Alpes-Cote d'Azur,France,Europe,4,234,Current,234
+200,759,Lyon,Rhone-Alpes ,France,Europe,4,235,Current,235
+201,777,Toulouse,Midi-Pyrenees,France,Europe,4,236,Current,236
+202,767,Nice,Alpes-Maritimes,France,Europe,4,237,Current,237
+203,766,Nantes,Pays de la Loire,France,Europe,4,238,Current,238
+204,775,Strasbourg,Bas-Rhin,France,Europe,4,239,Current,239
+205,771,Roma,Roma,Italy    ,Europe,4,240,Current,240
+206,779,Venezia,Venice,Italy    ,Europe,4,241,Current,241
+207,749,Firenze,Province of Florence,Italy    ,Europe,4,242,Current,242
+208,776,Torino,Province of Turin,Italy    ,Europe,4,243,Current,243
+209,763,Milan,Lombardia,Italy    ,Europe,4,244,Current,244
+211,586,Berlin,Berlin,Germany ,Europe,4,246,Current,246
+214,752,Hofheim am Taunus,Hesse,Germany ,Europe,4,248,Current,248
+215,754,Koln,North Rhine-Westphalia,Germany ,Europe,4,249,Current,249
+216,756,Landstuhl,Rhineland-Palatinate,Germany ,Europe,4,250,Current,250
+217,747,Dusseldorf,North Rhine-Westphalia,Germany ,Europe,4,251,Current,251
+218,770,Ramstein,Rhineland-Palatinate,Germany ,Europe,4,252,Current,252
+219,739,Baumholder,Rhineland-Palatinate,Germany ,Europe,4,253,Current,253
+220,750,Giebelstadt,Bavaria,Germany ,Europe,4,254,Current,254
+221,769,Bamberg,Bavaria,Germany ,Europe,4,255,Current,255
+222,765,Munich,Bavaria,Germany ,Europe,4,256,Current,256
+223,736,Amsterdam,Noord-Holland,the Netherlands,Europe,4,257,Current,257
+224,745,Copenhagen,Staden Kobenhavn,Denmark       ,Europe,4,258,Current,258
+225,773,Stockholm,Stockholms,Sweden ,Europe,4,259,Current,259
+226,760,Madrid,Madrid,Spain,Europe,4,260,Current,260
+227,758,Ljubljana,Ljubljana,Slovenia,Europe,4,261,Current,261
+228,741,Bucharest,Bucuresti,Romania ,Europe,4,262,Current,262
+229,740,Berne,Bern,Switzerland ,Europe,4,263,Current,263
+230,780,Warsaw,Warszawa,Poland ,Europe,4,264,Current,264
+231,778,Valletta,Valletta,Malta,Europe,4,265,Current,265
+232,746,Dublin,Leinster,Ireland ,Europe,4,266,Current,266
+233,737,Athens,Central Greece and Evvoia,Greece ,Europe,4,267,Current,267
+234,728,Singapore,Singapore,Singapore,Asia,4,268,Current,268
+235,723,New Delhi,India Capital Territory,India,Asia,4,269,Current,269
+236,721,Mumbai ,Maharashtra,India,Asia,4,270,Current,270
+237,718,Kolkata ,West Bengal,India,Asia,4,271,Current,271
+238,731,Thimphu,Thimphu District,Bhutan,Asia,4,272,Current,272
+239,716,Hong Kong,Hong Kong,Greater China,Asia,4,273,Current,273
+240,730,Tehran,Tehran,Iran,Asia,4,274,Current,274
+241,714,Damascus,Damascus,Syria,Asia,4,275,Current,275
+242,709,Bangkok,Krung Thep,Thailand,Asia,4,276,Current,276
+243,764,Moscow,Moskovskaya oblast,Russia,Europe,4,277,Current,277
+244,708,Ashgabat,Ahal Province,Turkmenistan,Asia,4,278,Current,278
+245,717,Islamabad,Islamabad Capital Territory,Pakistan,Asia,4,279,Current,279
+246,720,Miyagi,Tohoku,Japan,Asia,4,280,Current,280
+247,732,Tokyo,Kanto,Japan,Asia,4,281,Current,281
+248,735,Yokohama ,Kanto,Japan,Asia,4,282,Current,282
+249,724,Osaka ,Kansai,Japan,Asia,4,283,Current,283
+250,722,Nagoya ,Chubu,Japan,Asia,4,284,Current,284
+251,725,Sapporo ,Hokkaido,Japan,Asia,4,285,Current,285
+252,719,Kyoto ,Kansai,Japan,Asia,4,286,Current,286
+253,726,Seoul,Seoul-jikhalsi,South Korea,Asia,4,287,Current,287
+254,712,Busan ,Yeongnam,South Korea,Asia,4,288,Current,288
+255,711,Bishkek,Chuy Province,Kyrgyzstan,Asia,4,289,Current,289
+256,727,Shanghai,Shanghai,Greater China,Asia,4,290,Current,290
+257,733,Urumqi,Xinjiang,Greater China,Asia,4,291,Current,291
+258,710,Beijing,Beijing,Greater China,Asia,4,292,Current,292
+259,715,Guangzhou,GuangDong,Greater China,Asia,4,293,Current,293
+260,558,Sydney,New South Wales,Australia,Asia,4,294,Current,294
+261,734,Yerevan,Armenia,Armenia,Asia,4,295,Current,295
+262,713,Canberra,Molonglo,Australia,Asia,4,296,Current,296
+263,903,Ottawa,Ontario,Canada,North America,4,214,Current,214
+264,942,Toronto,Ontario,Canada,North America,4,215,Current,215
+265,881,Montreal,Quebec,Canada,North America,4,216,Current,216
+266,562,Vancouver,British Columbia,Canada,North America,4,217,Current,217
+267,598,Calgary,Alberta,Canada,North America,4,218,Current,218
+268,784,Anchorage,Alaska,United States,North America,4,34,Current,34
+269,729,Taipei,Taiwan,Greater China,Asia,4,24,Current,24
+270,757,Lisbon,Lisboa Region,Portugal,Europe,4,25,Current,25
+271,772,Saint Petersburg,Northwestern,Russia,Europe,4,14,Current,14
+272,768,Nizhny Novgorod ,Nizhny Novgorod Oblast,Russia,Europe,4,15,Current,15
+274,542,Saarlouis,Saar,Germany ,Europe,4,247,Current,247

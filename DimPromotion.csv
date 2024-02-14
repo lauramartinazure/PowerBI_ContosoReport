@@ -1,0 +1,29 @@
+PromotionKey,PromotionName,DiscountPercent,PromotionType,PromotionCategory
+1,No Discount,0.0,No Discount,No Discount
+2,North America Spring Promotion,0.05,Seasonal Discount,Store
+3,North America Back-to-School Promotion,0.1,Seasonal Discount,Store
+4,North America Holiday Promotion,0.2,Seasonal Discount,Store
+5,Asian Holiday Promotion,0.15,Seasonal Discount,Store
+6,Asian Spring Promotion,0.2,Seasonal Discount,Store
+7,Asian Summer Promotion,0.1,Seasonal Discount,Store
+8,European Spring Promotion,0.07,Seasonal Discount,Store
+9,European Back-to-Scholl Promotion,0.1,Seasonal Discount,Store
+10,European Holiday Promotion,0.2,Seasonal Discount,Store
+11,North America Spring Promotion,0.05,Seasonal Discount,Store
+12,North America Back-to-School Promotion,0.1,Seasonal Discount,Store
+13,North America Holiday Promotion,0.2,Seasonal Discount,Store
+14,Asian Holiday Promotion,0.15,Seasonal Discount,Store
+15,Asian Spring Promotion,0.2,Seasonal Discount,Store
+16,Asian Summer Promotion,0.1,Seasonal Discount,Store
+17,European Spring Promotion,0.07,Seasonal Discount,Store
+18,European Back-to-Scholl Promotion,0.1,Seasonal Discount,Store
+19,European Holiday Promotion,0.2,Seasonal Discount,Store
+20,North America Spring Promotion,0.05,Seasonal Discount,Store
+21,North America Back-to-School Promotion,0.1,Seasonal Discount,Store
+22,North America Holiday Promotion,0.2,Seasonal Discount,Store
+23,Asian Holiday Promotion,0.15,Seasonal Discount,Store
+24,Asian Spring Promotion,0.2,Seasonal Discount,Store
+25,Asian Summer Promotion,0.1,Seasonal Discount,Store
+26,European Spring Promotion,0.07,Seasonal Discount,Store
+27,European Back-to-Scholl Promotion,0.1,Seasonal Discount,Store
+28,European Holiday Promotion,0.2,Seasonal Discount,Store
